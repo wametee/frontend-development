@@ -2,6 +2,37 @@
 
 This comprehensive plan outlines the steps and topics you need to master to become a Senior ReactJS Developer. Follow this structured approach to gain the necessary skills and experience.
 
+## Introduction
+- React Introduction
+- React Upgrade
+- React with ES6
+- React Rendering HTML
+- React JSX
+
+## Components
+- React Components
+- React Class Components
+- React Props
+- React Events
+- React Conditions
+- React Lists
+- React Forms
+- React Router
+- React Memo
+- React CSS Styling
+- React Sass Styling
+
+## React Hooks
+- What is a Hook?
+- `useState`
+- `useEffect`
+- `useContext`
+- `useRef`
+- `useReducer`
+- `useCallback`
+- `useMemo`
+- Custom Hooks
+
 ## Topics to Learn
 
 1. **Closures, Scope, and Hoisting**
